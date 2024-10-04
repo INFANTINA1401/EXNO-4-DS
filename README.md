@@ -1,7 +1,7 @@
-# EXNO:4-DS
+# EXNO:4
 # DATE: 04/10/24
-# NAME: V MYTHILI (212223040123)
-# DEPT: CSE
+# NAME: INFANTINA MARIA L
+# DEPT: CSE[CYBER SECURITY]
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
